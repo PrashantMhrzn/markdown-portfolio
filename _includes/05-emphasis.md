@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a beginner programmer with experience in **python** and **C**. I love watching movies of _**Christopher Nolan**_ and _**Quentin Tarantino**_. I play the **guitar** and am good at **cooking**.
